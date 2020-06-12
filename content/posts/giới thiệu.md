@@ -1,7 +1,7 @@
 ---
 template: "post"
 title: "Lời giới thiệu"
-cover: "../images/gioi thieu.jpg"
+cover: "../images/gioi-thieu.jpg"
 description: "this is a description"
 date: "2018-07-04T08:00:00Z"
 slug: "big-sample-test-4"
