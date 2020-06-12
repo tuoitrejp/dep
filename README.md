@@ -220,4 +220,4 @@ This project is based on:
 
 ## License
 
-This project is open source and available under the [MIT License](https://github.com/completejavascript/gatsby-blog-template/blob/dev/LICENSE).
+This project is open source and available under the [MIT License](https://github.com/completejavascript/gatsby-blog-template/blob/dev/LICENSE).# tuoitrejp
